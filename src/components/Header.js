@@ -3,9 +3,11 @@ import GoMarkGitHub from 'react-icons/lib/go/mark-github';
 import styled from 'styled-components';
 import logo from '../logo.png';
 
+export const headerHeight = '100px';
+
 const Header = styled.header`
   position: relative;
-  height: 100px;
+  height: ${headerHeight};
   z-index: 1;
   text-align: center;
   box-shadow: 0 0 9px #888888;
