@@ -6,6 +6,7 @@
     "lodash": "^4.17.10",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
+    "react-flexbox-grid": "^2.1.0",
     "react-google-maps": "^9.4.5",
     "react-icons": "^2.2.7",
     "react-redux": "^5.0.7",
