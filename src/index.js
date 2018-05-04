@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { createStore } from 'redux';
+import { Provider } from 'react-redux';
 import reducers from './reducers';
 import { addEvent } from './redux/events';
 import './index.css';
@@ -35,7 +36,13 @@ fetch('https://api.github.com/repos/TGmeetup/TGmeetup.github.io/issues?labels=Ev
     });
   });
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(
+  <Provider store={store}>
+    <App />
+  </Provider>,
+  document.getElementById('root')
+);
+
 registerServiceWorker();
 
 if (module.hot && process.env.NODE_ENV !== 'production') {

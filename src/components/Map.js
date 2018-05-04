@@ -1,3 +1,4 @@
+import { map } from 'lodash'
 import React, { Component } from 'react';
 import {
   withScriptjs,
@@ -6,31 +7,51 @@ import {
   Marker,
   InfoWindow,
 } from 'react-google-maps';
+import { connect } from 'react-redux';
 import { compose, withProps } from 'recompose';
+import { toggleEvent } from '../redux/events';
 
 const GOOGLE_MAPS_API_KEY = 'AIzaSyDUl-ub3O_XrUZ71artT6KIksNxSJmKn1U';
 
 class MapView extends Component {
   render() {
+    const { events } = this.props;
+    const { toggle } = this.props;
+
     return (
       <GoogleMap
         defaultZoom={8}
         defaultCenter={{ lat: 23.903687, lng: 121.07937 }}
         onClick={() => {}}
-        ref={map => {
-          this.map = map;
+        ref={mapRef => {
+          this.map = mapRef;
         }}
       >
-        <Marker
-          position={{ lat: 24.819185256958008, lng: 121.02629852294922 }}
-          onClick={() => {}}
-        >
-          <InfoWindow onCloseClick={() => {}}><div>Hello</div></InfoWindow>
-        </Marker>
+        { events.map(event => (
+          <Marker
+            key={event.id}
+            position={event.geocode}
+            onClick={() => toggle(event)}
+          >
+            { event.selected &&
+              <InfoWindow onCloseClick={() => toggle(event)}><div>Hello</div></InfoWindow>
+            }
+          </Marker>
+        ))}
       </GoogleMap>
     )
   }
 }
+
+const mapStateToProps = state =>  ({
+  events: map(state.events),
+});
+
+const mapDispatchToProps = (dispatch) => ({
+  toggle: (event) => {
+    dispatch(toggleEvent(event));
+  }
+})
 
 export default compose(
   withProps({
@@ -40,5 +61,6 @@ export default compose(
     mapElement: <div style={{ height: `100%` }} />,
   }),
   withScriptjs,
-  withGoogleMap
+  withGoogleMap,
+  connect(mapStateToProps, mapDispatchToProps),
 )(MapView);
