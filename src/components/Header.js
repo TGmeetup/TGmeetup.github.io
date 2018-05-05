@@ -34,7 +34,7 @@ export default () => (
     <img src={logo} alt="tgmeetup" />
     <MenuRight>
       <a
-        href="https://github.com/TGmeetup/TGmeetup.com.tw"
+        href="https://github.com/TGmeetup/TGmeetup"
         target="_blank"
         rel="noopener noreferrer"
       >
