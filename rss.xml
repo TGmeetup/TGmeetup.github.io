@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+    <channel>
+        <title><![CDATA[TGmeetup]]></title>
+        <description><![CDATA[A collection set of technical groups' information]]></description>
+        <link>https://tgmeetup.github.io/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 12 May 2018 20:23:07 GMT</lastBuildDate>
+        <atom:link href="https://api.github.com/repos/TGmeetup/tgmeetup.js/issues?labels=Event&amp;state=open" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[TESTING DATA]【May 26】PyCon Taiwan 2018 Tutorial - 用 Python 做股票分析 ]]></title>
+            <description><![CDATA[https://pycontw.kktix.cc/events/20180526-pystock]]></description>
+            <link>https://github.com/TGmeetup/tgmeetup.js/issues/1</link>
+            <guid isPermaLink="false">322531363</guid>
+            <dc:creator><![CDATA[PyConTaiwan]]></dc:creator>
+            <pubDate>Sat, 12 May 2018 18:08:42 GMT</pubDate>
+            <geo:lat>25.0329694</geo:lat>
+            <geo:long>121.5654177</geo:long>
+        </item>
+    </channel>
+</rss>
