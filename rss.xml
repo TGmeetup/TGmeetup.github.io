@@ -4,8 +4,28 @@
         <description><![CDATA[A collection set of technical groups' information]]></description>
         <link>https://tgmeetup.github.io/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 May 2018 09:58:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 May 2018 09:58:37 GMT</lastBuildDate>
         <atom:link href="https://api.github.com/repos/TGmeetup/tgmeetup.js/issues?labels=Event&amp;state=open" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【July 18】SyntaxError]]></title>
+            <description><![CDATA[https://www.meetup.com/pythonhug/events/tnzzgpyxkbxb/]]></description>
+            <link>https://github.com/TGmeetup/tgmeetup.js/issues/37</link>
+            <guid isPermaLink="false">324719922</guid>
+            <dc:creator><![CDATA[PyHUG]]></dc:creator>
+            <pubDate>Sun, 20 May 2018 16:00:20 GMT</pubDate>
+            <geo:lat>24.819185256958008</geo:lat>
+            <geo:long>121.02629852294922</geo:long>
+        </item>
+        <item>
+            <title><![CDATA[【July 19】HackingThursday 固定聚會]]></title>
+            <description><![CDATA[https://www.meetup.com/hackingthursday/events/zvwwtlyxkbzb/]]></description>
+            <link>https://github.com/TGmeetup/tgmeetup.js/issues/36</link>
+            <guid isPermaLink="false">324719920</guid>
+            <dc:creator><![CDATA[hackingthursday]]></dc:creator>
+            <pubDate>Sun, 20 May 2018 16:00:19 GMT</pubDate>
+            <geo:lat>25.039670944213867</geo:lat>
+            <geo:long>121.53105163574219</geo:long>
+        </item>
         <item>
             <title><![CDATA[【May 26】PyCon Taiwan 2018 Tutorial - 用 Python 做股票分析]]></title>
             <description><![CDATA[https://pycontw.kktix.cc/events/20180526-pystock]]></description>
@@ -283,16 +303,6 @@
             <guid isPermaLink="false">322790354</guid>
             <dc:creator><![CDATA[DevOpsTaiwan]]></dc:creator>
             <pubDate>Mon, 14 May 2018 12:13:30 GMT</pubDate>
-            <geo:lat>25.0329694</geo:lat>
-            <geo:long>121.5654177</geo:long>
-        </item>
-        <item>
-            <title><![CDATA[[TESTING DATA]【May 26】PyCon Taiwan 2018 Tutorial - 用 Python 做股票分析 ]]></title>
-            <description><![CDATA[https://pycontw.kktix.cc/events/20180526-pystock]]></description>
-            <link>https://github.com/TGmeetup/tgmeetup.js/issues/1</link>
-            <guid isPermaLink="false">322531363</guid>
-            <dc:creator><![CDATA[PyConTaiwan]]></dc:creator>
-            <pubDate>Sat, 12 May 2018 18:08:42 GMT</pubDate>
             <geo:lat>25.0329694</geo:lat>
             <geo:long>121.5654177</geo:long>
         </item>
