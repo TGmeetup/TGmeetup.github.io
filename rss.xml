@@ -4,8 +4,48 @@
         <description><![CDATA[A collection set of technical groups' information]]></description>
         <link>https://tgmeetup.github.io/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 31 May 2018 10:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jun 2018 10:06:12 GMT</lastBuildDate>
         <atom:link href="https://api.github.com/repos/TGmeetup/tgmeetup.js/issues?labels=Event&amp;state=open" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【June 03】PyCon Taiwan 2018 Tutorial - 老司機帶你飛～手把手使用 PySpark 探索大數據]]></title>
+            <description><![CDATA[https://pycontw.kktix.cc/events/20180603-pyspark]]></description>
+            <link>https://github.com/TGmeetup/tgmeetup.js/issues/68</link>
+            <guid isPermaLink="false">328406723</guid>
+            <dc:creator><![CDATA[PyConTaiwan]]></dc:creator>
+            <pubDate>Fri, 01 Jun 2018 07:14:46 GMT</pubDate>
+            <geo:lat>25.0329694</geo:lat>
+            <geo:long>121.5654177</geo:long>
+        </item>
+        <item>
+            <title><![CDATA[【June 14】ROCK - test]]></title>
+            <description><![CDATA[https://pycontw.kktix.cc/events/rocktest]]></description>
+            <link>https://github.com/TGmeetup/tgmeetup.js/issues/67</link>
+            <guid isPermaLink="false">328406717</guid>
+            <dc:creator><![CDATA[PyConTaiwan]]></dc:creator>
+            <pubDate>Fri, 01 Jun 2018 07:14:44 GMT</pubDate>
+            <geo:lat>25.0329694</geo:lat>
+            <geo:long>121.5654177</geo:long>
+        </item>
+        <item>
+            <title><![CDATA[【July 11】SyntaxError]]></title>
+            <description><![CDATA[https://www.meetup.com/pythonhug/events/tnzzgpyxkbpb/]]></description>
+            <link>https://github.com/TGmeetup/tgmeetup.js/issues/66</link>
+            <guid isPermaLink="false">328406707</guid>
+            <dc:creator><![CDATA[PyHUG]]></dc:creator>
+            <pubDate>Fri, 01 Jun 2018 07:14:43 GMT</pubDate>
+            <geo:lat>24.819185256958008</geo:lat>
+            <geo:long>121.02629852294922</geo:long>
+        </item>
+        <item>
+            <title><![CDATA[【June 07】SRE 讀書會 Round 2 - #1 SRE 相見歡]]></title>
+            <description><![CDATA[https://devops.kktix.cc/events/sre-2-1]]></description>
+            <link>https://github.com/TGmeetup/tgmeetup.js/issues/65</link>
+            <guid isPermaLink="false">328406704</guid>
+            <dc:creator><![CDATA[DevOpsTaiwan]]></dc:creator>
+            <pubDate>Fri, 01 Jun 2018 07:14:42 GMT</pubDate>
+            <geo:lat>25.0329694</geo:lat>
+            <geo:long>121.5654177</geo:long>
+        </item>
         <item>
             <title><![CDATA[【August 11】COSCUP 2018 個人贊助者方案 ]]></title>
             <description><![CDATA[https://coscup2018.kktix.cc/events/individual-sponsor]]></description>
@@ -227,16 +267,6 @@
             <geo:long>121.53105163574219</geo:long>
         </item>
         <item>
-            <title><![CDATA[【May 31】HackingThursday 固定聚會]]></title>
-            <description><![CDATA[https://www.meetup.com/hackingthursday/events/zvwwtlyxhbpc/]]></description>
-            <link>https://github.com/TGmeetup/tgmeetup.js/issues/41</link>
-            <guid isPermaLink="false">325935330</guid>
-            <dc:creator><![CDATA[hackingthursday]]></dc:creator>
-            <pubDate>Thu, 24 May 2018 01:51:14 GMT</pubDate>
-            <geo:lat>25.039670944213867</geo:lat>
-            <geo:long>121.53105163574219</geo:long>
-        </item>
-        <item>
             <title><![CDATA[【June 05】Swift Meetup #34]]></title>
             <description><![CDATA[https://www.meetup.com/Swift-Taipei-User-Group/events/250974725/]]></description>
             <link>https://github.com/TGmeetup/tgmeetup.js/issues/40</link>
@@ -271,36 +301,6 @@
             <guid isPermaLink="false">323998694</guid>
             <dc:creator><![CDATA[HITCON]]></dc:creator>
             <pubDate>Thu, 17 May 2018 12:20:45 GMT</pubDate>
-            <geo:lat>25.0329694</geo:lat>
-            <geo:long>121.5654177</geo:long>
-        </item>
-        <item>
-            <title><![CDATA[【June 01】PyCon Taiwan 2018 Registration: Corporate 企業票]]></title>
-            <description><![CDATA[https://pycontw.kktix.cc/events/20180601-corporate]]></description>
-            <link>https://github.com/TGmeetup/tgmeetup.js/issues/27</link>
-            <guid isPermaLink="false">322790551</guid>
-            <dc:creator><![CDATA[PyConTaiwan]]></dc:creator>
-            <pubDate>Mon, 14 May 2018 12:14:03 GMT</pubDate>
-            <geo:lat>25.0329694</geo:lat>
-            <geo:long>121.5654177</geo:long>
-        </item>
-        <item>
-            <title><![CDATA[【June 01】PyCon Taiwan 2018 Registration: Reserved 保留票]]></title>
-            <description><![CDATA[https://pycontw.kktix.cc/events/20180601-reserved]]></description>
-            <link>https://github.com/TGmeetup/tgmeetup.js/issues/26</link>
-            <guid isPermaLink="false">322790545</guid>
-            <dc:creator><![CDATA[PyConTaiwan]]></dc:creator>
-            <pubDate>Mon, 14 May 2018 12:14:02 GMT</pubDate>
-            <geo:lat>25.0329694</geo:lat>
-            <geo:long>121.5654177</geo:long>
-        </item>
-        <item>
-            <title><![CDATA[【June 01】PyCon Taiwan 2018 Registration: Individual 個人票]]></title>
-            <description><![CDATA[https://pycontw.kktix.cc/events/20180601-individual]]></description>
-            <link>https://github.com/TGmeetup/tgmeetup.js/issues/25</link>
-            <guid isPermaLink="false">322790536</guid>
-            <dc:creator><![CDATA[PyConTaiwan]]></dc:creator>
-            <pubDate>Mon, 14 May 2018 12:14:01 GMT</pubDate>
             <geo:lat>25.0329694</geo:lat>
             <geo:long>121.5654177</geo:long>
         </item>
