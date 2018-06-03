@@ -4,7 +4,7 @@
         <description><![CDATA[A collection set of technical groups' information]]></description>
         <link>https://tgmeetup.github.io/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 Jun 2018 10:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jun 2018 10:05:56 GMT</lastBuildDate>
         <atom:link href="https://api.github.com/repos/TGmeetup/tgmeetup.js/issues?labels=Event&amp;state=open" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[【June 03】PyCon Taiwan 2018 Tutorial - 老司機帶你飛～手把手使用 PySpark 探索大數據]]></title>
