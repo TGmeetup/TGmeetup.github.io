@@ -4,7 +4,7 @@
         <description><![CDATA[A collection set of technical groups' information]]></description>
         <link>https://tgmeetup.github.io/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 Jun 2018 10:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jun 2018 10:07:13 GMT</lastBuildDate>
         <atom:link href="https://api.github.com/repos/TGmeetup/tgmeetup.js/issues?labels=Event&amp;state=open" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[【July 27】台灣駭客年會 HITCON Community 2018]]></title>
