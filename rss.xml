@@ -4,8 +4,58 @@
         <description><![CDATA[A collection set of technical groups' information]]></description>
         <link>https://tgmeetup.github.io/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 Jun 2018 10:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jun 2018 10:10:59 GMT</lastBuildDate>
         <atom:link href="https://api.github.com/repos/TGmeetup/tgmeetup.js/issues?labels=Event&amp;state=open" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【June 14】6/14 聚會,  Luba 要和大家分享 ONNC,  千萬別錯過喔！]]></title>
+            <description><![CDATA[https://hcsm.kktix.cc/events/e51afb8f]]></description>
+            <link>https://github.com/TGmeetup/tgmeetup.js/issues/78</link>
+            <guid isPermaLink="false">331236250</guid>
+            <dc:creator><![CDATA[hcsm]]></dc:creator>
+            <pubDate>Mon, 11 Jun 2018 15:23:09 GMT</pubDate>
+            <geo:lat>24.8138287</geo:lat>
+            <geo:long>120.9674798</geo:long>
+        </item>
+        <item>
+            <title><![CDATA[【August 09】HackingThursday 固定聚會]]></title>
+            <description><![CDATA[https://www.meetup.com/hackingthursday/events/zvwwtlyxlbmb/]]></description>
+            <link>https://github.com/TGmeetup/tgmeetup.js/issues/77</link>
+            <guid isPermaLink="false">331236240</guid>
+            <dc:creator><![CDATA[hackingthursday]]></dc:creator>
+            <pubDate>Mon, 11 Jun 2018 15:23:07 GMT</pubDate>
+            <geo:lat>25.039670944213867</geo:lat>
+            <geo:long>121.53105163574219</geo:long>
+        </item>
+        <item>
+            <title><![CDATA[【June 21】SRE 讀書會 Round 2 - #2 -《Continuous Delivery》Ch1]]></title>
+            <description><![CDATA[https://devops.kktix.cc/events/sre-2-2]]></description>
+            <link>https://github.com/TGmeetup/tgmeetup.js/issues/76</link>
+            <guid isPermaLink="false">331236234</guid>
+            <dc:creator><![CDATA[DevOpsTaiwan]]></dc:creator>
+            <pubDate>Mon, 11 Jun 2018 15:23:05 GMT</pubDate>
+            <geo:lat>25.0329694</geo:lat>
+            <geo:long>121.5654177</geo:long>
+        </item>
+        <item>
+            <title><![CDATA[【August 08】SyntaxError]]></title>
+            <description><![CDATA[https://www.meetup.com/pythonhug/events/tnzzgpyxlblb/]]></description>
+            <link>https://github.com/TGmeetup/tgmeetup.js/issues/75</link>
+            <guid isPermaLink="false">330942056</guid>
+            <dc:creator><![CDATA[PyHUG]]></dc:creator>
+            <pubDate>Sun, 10 Jun 2018 05:34:17 GMT</pubDate>
+            <geo:lat>24.819185256958008</geo:lat>
+            <geo:long>121.02629852294922</geo:long>
+        </item>
+        <item>
+            <title><![CDATA[【June 27】GCPUG Taipei Meetup #38]]></title>
+            <description><![CDATA[https://gcpugtw.kktix.cc/events/meetup20180627]]></description>
+            <link>https://github.com/TGmeetup/tgmeetup.js/issues/74</link>
+            <guid isPermaLink="false">330942054</guid>
+            <dc:creator><![CDATA[GCPUG.TW]]></dc:creator>
+            <pubDate>Sun, 10 Jun 2018 05:34:15 GMT</pubDate>
+            <geo:lat>25.0329694</geo:lat>
+            <geo:long>121.5654177</geo:long>
+        </item>
         <item>
             <title><![CDATA[【July 19】HackingThursday 固定聚會]]></title>
             <description><![CDATA[https://www.meetup.com/hackingthursday/events/zvwwtlyxkbzb/]]></description>
@@ -207,16 +257,6 @@
             <geo:long>121.53105163574219</geo:long>
         </item>
         <item>
-            <title><![CDATA[【June 10】[ UX/UI 台中聚 六月活動 ]從專案學習使用者體驗-AJA大予設計案例分享]]></title>
-            <description><![CDATA[https://uxui-taichung.kktix.cc/events/aja]]></description>
-            <link>https://github.com/TGmeetup/tgmeetup.js/issues/47</link>
-            <guid isPermaLink="false">326602980</guid>
-            <dc:creator><![CDATA[uxui-taichung]]></dc:creator>
-            <pubDate>Fri, 25 May 2018 17:17:02 GMT</pubDate>
-            <geo:lat>24.1477358</geo:lat>
-            <geo:long>120.6736482</geo:long>
-        </item>
-        <item>
             <title><![CDATA[【June 28】HackingThursday 固定聚會]]></title>
             <description><![CDATA[https://www.meetup.com/hackingthursday/events/zvwwtlyxjblc/]]></description>
             <link>https://github.com/TGmeetup/tgmeetup.js/issues/46</link>
@@ -247,26 +287,6 @@
             <geo:long>121.53105163574219</geo:long>
         </item>
         <item>
-            <title><![CDATA[【June 10】[ UX/UI 台中聚 六月活動 ] 用使用者體驗解決對的問題 - AJA業界案例分享]]></title>
-            <description><![CDATA[https://uxui-taichung.kktix.cc/events/aja]]></description>
-            <link>https://github.com/TGmeetup/tgmeetup.js/issues/43</link>
-            <guid isPermaLink="false">325935336</guid>
-            <dc:creator><![CDATA[uxui-taichung]]></dc:creator>
-            <pubDate>Thu, 24 May 2018 01:51:16 GMT</pubDate>
-            <geo:lat>24.1477358</geo:lat>
-            <geo:long>120.6736482</geo:long>
-        </item>
-        <item>
-            <title><![CDATA[【June 07】HackingThursday 固定聚會]]></title>
-            <description><![CDATA[https://www.meetup.com/hackingthursday/events/zvwwtlyxjbkb/]]></description>
-            <link>https://github.com/TGmeetup/tgmeetup.js/issues/42</link>
-            <guid isPermaLink="false">325935334</guid>
-            <dc:creator><![CDATA[hackingthursday]]></dc:creator>
-            <pubDate>Thu, 24 May 2018 01:51:15 GMT</pubDate>
-            <geo:lat>25.039670944213867</geo:lat>
-            <geo:long>121.53105163574219</geo:long>
-        </item>
-        <item>
             <title><![CDATA[【July 18】SyntaxError]]></title>
             <description><![CDATA[https://www.meetup.com/pythonhug/events/tnzzgpyxkbxb/]]></description>
             <link>https://github.com/TGmeetup/tgmeetup.js/issues/37</link>
@@ -285,26 +305,6 @@
             <pubDate>Sun, 20 May 2018 16:00:19 GMT</pubDate>
             <geo:lat>25.039670944213867</geo:lat>
             <geo:long>121.53105163574219</geo:long>
-        </item>
-        <item>
-            <title><![CDATA[【July 27】台灣駭客年會 HITCON Community 2018]]></title>
-            <description><![CDATA[https://hitcon.kktix.cc/events/hitcon-cmt-2018]]></description>
-            <link>https://github.com/TGmeetup/tgmeetup.js/issues/33</link>
-            <guid isPermaLink="false">323998694</guid>
-            <dc:creator><![CDATA[HITCON]]></dc:creator>
-            <pubDate>Thu, 17 May 2018 12:20:45 GMT</pubDate>
-            <geo:lat>25.0329694</geo:lat>
-            <geo:long>121.5654177</geo:long>
-        </item>
-        <item>
-            <title><![CDATA[【June 01】PyCon Taiwan 2018 Registration: Individual 個人票]]></title>
-            <description><![CDATA[https://pycontw.kktix.cc/events/20180601-individual]]></description>
-            <link>https://github.com/TGmeetup/tgmeetup.js/issues/25</link>
-            <guid isPermaLink="false">322790536</guid>
-            <dc:creator><![CDATA[PyConTaiwan]]></dc:creator>
-            <pubDate>Mon, 14 May 2018 12:14:01 GMT</pubDate>
-            <geo:lat>25.0329694</geo:lat>
-            <geo:long>121.5654177</geo:long>
         </item>
     </channel>
 </rss>
