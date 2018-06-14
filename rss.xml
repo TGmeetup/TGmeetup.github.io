@@ -4,8 +4,38 @@
         <description><![CDATA[A collection set of technical groups' information]]></description>
         <link>https://tgmeetup.github.io/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 Jun 2018 10:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jun 2018 10:11:20 GMT</lastBuildDate>
         <atom:link href="https://api.github.com/repos/TGmeetup/tgmeetup.js/issues?labels=Event&amp;state=open" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【July 23】台灣駭客年會 HITCON Summer Training 2018 - 學生報名]]></title>
+            <description><![CDATA[https://hitcon.kktix.cc/events/hitcon-summer-training-2018-student]]></description>
+            <link>https://github.com/TGmeetup/tgmeetup.js/issues/81</link>
+            <guid isPermaLink="false">331907598</guid>
+            <dc:creator><![CDATA[HITCON]]></dc:creator>
+            <pubDate>Wed, 13 Jun 2018 09:12:31 GMT</pubDate>
+            <geo:lat>25.0329694</geo:lat>
+            <geo:long>121.5654177</geo:long>
+        </item>
+        <item>
+            <title><![CDATA[【July 23】台灣駭客年會 HITCON Summer Training 2018]]></title>
+            <description><![CDATA[https://hitcon.kktix.cc/events/hitcon-summer-training-2018]]></description>
+            <link>https://github.com/TGmeetup/tgmeetup.js/issues/80</link>
+            <guid isPermaLink="false">331907590</guid>
+            <dc:creator><![CDATA[HITCON]]></dc:creator>
+            <pubDate>Wed, 13 Jun 2018 09:12:30 GMT</pubDate>
+            <geo:lat>25.0329694</geo:lat>
+            <geo:long>121.5654177</geo:long>
+        </item>
+        <item>
+            <title><![CDATA[【June 21】6/21 加場, 本次兩位講者、兩個主題，請不要錯過喔～ ]]></title>
+            <description><![CDATA[https://hcsm.kktix.cc/events/2a8159d9]]></description>
+            <link>https://github.com/TGmeetup/tgmeetup.js/issues/79</link>
+            <guid isPermaLink="false">331907577</guid>
+            <dc:creator><![CDATA[hcsm]]></dc:creator>
+            <pubDate>Wed, 13 Jun 2018 09:12:28 GMT</pubDate>
+            <geo:lat>24.8138287</geo:lat>
+            <geo:long>120.9674798</geo:long>
+        </item>
         <item>
             <title><![CDATA[【June 14】6/14 聚會,  Luba 要和大家分享 ONNC,  千萬別錯過喔！]]></title>
             <description><![CDATA[https://hcsm.kktix.cc/events/e51afb8f]]></description>
@@ -273,36 +303,6 @@
             <guid isPermaLink="false">326602974</guid>
             <dc:creator><![CDATA[hackingthursday]]></dc:creator>
             <pubDate>Fri, 25 May 2018 17:16:59 GMT</pubDate>
-            <geo:lat>25.039670944213867</geo:lat>
-            <geo:long>121.53105163574219</geo:long>
-        </item>
-        <item>
-            <title><![CDATA[【June 14】HackingThursday 固定聚會]]></title>
-            <description><![CDATA[https://www.meetup.com/hackingthursday/events/zvwwtlyxjbsb/]]></description>
-            <link>https://github.com/TGmeetup/tgmeetup.js/issues/44</link>
-            <guid isPermaLink="false">326602968</guid>
-            <dc:creator><![CDATA[hackingthursday]]></dc:creator>
-            <pubDate>Fri, 25 May 2018 17:16:58 GMT</pubDate>
-            <geo:lat>25.039670944213867</geo:lat>
-            <geo:long>121.53105163574219</geo:long>
-        </item>
-        <item>
-            <title><![CDATA[【July 18】SyntaxError]]></title>
-            <description><![CDATA[https://www.meetup.com/pythonhug/events/tnzzgpyxkbxb/]]></description>
-            <link>https://github.com/TGmeetup/tgmeetup.js/issues/37</link>
-            <guid isPermaLink="false">324719922</guid>
-            <dc:creator><![CDATA[PyHUG]]></dc:creator>
-            <pubDate>Sun, 20 May 2018 16:00:20 GMT</pubDate>
-            <geo:lat>24.819185256958008</geo:lat>
-            <geo:long>121.02629852294922</geo:long>
-        </item>
-        <item>
-            <title><![CDATA[【July 19】HackingThursday 固定聚會]]></title>
-            <description><![CDATA[https://www.meetup.com/hackingthursday/events/zvwwtlyxkbzb/]]></description>
-            <link>https://github.com/TGmeetup/tgmeetup.js/issues/36</link>
-            <guid isPermaLink="false">324719920</guid>
-            <dc:creator><![CDATA[hackingthursday]]></dc:creator>
-            <pubDate>Sun, 20 May 2018 16:00:19 GMT</pubDate>
             <geo:lat>25.039670944213867</geo:lat>
             <geo:long>121.53105163574219</geo:long>
         </item>
