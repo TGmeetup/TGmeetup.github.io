@@ -4,8 +4,38 @@
         <description><![CDATA[A collection set of technical groups' information]]></description>
         <link>https://tgmeetup.github.io/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 Jun 2018 10:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jun 2018 10:16:34 GMT</lastBuildDate>
         <atom:link href="https://api.github.com/repos/TGmeetup/tgmeetup.js/issues?labels=Event&amp;state=open" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【August 22】SyntaxError]]></title>
+            <description><![CDATA[https://www.meetup.com/pythonhug/events/tnzzgpyxlbdc/]]></description>
+            <link>https://github.com/TGmeetup/tgmeetup.js/issues/89</link>
+            <guid isPermaLink="false">335197712</guid>
+            <dc:creator><![CDATA[PyHUG]]></dc:creator>
+            <pubDate>Sun, 24 Jun 2018 17:40:29 GMT</pubDate>
+            <geo:lat>24.819185256958008</geo:lat>
+            <geo:long>121.02629852294922</geo:long>
+        </item>
+        <item>
+            <title><![CDATA[【July 19】HPXKH Talk 02  雙蔡開講—心理學能幫我們什麼？]]></title>
+            <description><![CDATA[https://hpxkh.kktix.cc/events/hpxkhtalk2]]></description>
+            <link>https://github.com/TGmeetup/tgmeetup.js/issues/88</link>
+            <guid isPermaLink="false">335197709</guid>
+            <dc:creator><![CDATA[HPXKH]]></dc:creator>
+            <pubDate>Sun, 24 Jun 2018 17:40:27 GMT</pubDate>
+            <geo:lat>22.6272784</geo:lat>
+            <geo:long>120.3014353</geo:long>
+        </item>
+        <item>
+            <title><![CDATA[【August 23】HackingThursday 固定聚會]]></title>
+            <description><![CDATA[https://www.meetup.com/hackingthursday/events/zvwwtlyxlbfc/]]></description>
+            <link>https://github.com/TGmeetup/tgmeetup.js/issues/87</link>
+            <guid isPermaLink="false">335197705</guid>
+            <dc:creator><![CDATA[hackingthursday]]></dc:creator>
+            <pubDate>Sun, 24 Jun 2018 17:40:26 GMT</pubDate>
+            <geo:lat>25.039670944213867</geo:lat>
+            <geo:long>121.53105163574219</geo:long>
+        </item>
         <item>
             <title><![CDATA[【July 02】Front-end and Back-end: Infinity Love]]></title>
             <description><![CDATA[https://www.meetup.com/DigitalOceanHsinchu/events/251993383/]]></description>
@@ -273,36 +303,6 @@
             <guid isPermaLink="false">326603959</guid>
             <dc:creator><![CDATA[hackingthursday]]></dc:creator>
             <pubDate>Fri, 25 May 2018 17:20:29 GMT</pubDate>
-            <geo:lat>25.039670944213867</geo:lat>
-            <geo:long>121.53105163574219</geo:long>
-        </item>
-        <item>
-            <title><![CDATA[【June 28】HackingThursday 固定聚會]]></title>
-            <description><![CDATA[https://www.meetup.com/hackingthursday/events/zvwwtlyxjblc/]]></description>
-            <link>https://github.com/TGmeetup/tgmeetup.js/issues/46</link>
-            <guid isPermaLink="false">326602977</guid>
-            <dc:creator><![CDATA[hackingthursday]]></dc:creator>
-            <pubDate>Fri, 25 May 2018 17:17:01 GMT</pubDate>
-            <geo:lat>25.039670944213867</geo:lat>
-            <geo:long>121.53105163574219</geo:long>
-        </item>
-        <item>
-            <title><![CDATA[【June 21】HackingThursday 固定聚會]]></title>
-            <description><![CDATA[https://www.meetup.com/hackingthursday/events/zvwwtlyxjbcc/]]></description>
-            <link>https://github.com/TGmeetup/tgmeetup.js/issues/45</link>
-            <guid isPermaLink="false">326602974</guid>
-            <dc:creator><![CDATA[hackingthursday]]></dc:creator>
-            <pubDate>Fri, 25 May 2018 17:16:59 GMT</pubDate>
-            <geo:lat>25.039670944213867</geo:lat>
-            <geo:long>121.53105163574219</geo:long>
-        </item>
-        <item>
-            <title><![CDATA[【June 14】HackingThursday 固定聚會]]></title>
-            <description><![CDATA[https://www.meetup.com/hackingthursday/events/zvwwtlyxjbsb/]]></description>
-            <link>https://github.com/TGmeetup/tgmeetup.js/issues/44</link>
-            <guid isPermaLink="false">326602968</guid>
-            <dc:creator><![CDATA[hackingthursday]]></dc:creator>
-            <pubDate>Fri, 25 May 2018 17:16:58 GMT</pubDate>
             <geo:lat>25.039670944213867</geo:lat>
             <geo:long>121.53105163574219</geo:long>
         </item>
