@@ -4,7 +4,7 @@
         <description><![CDATA[A collection set of technical groups' information]]></description>
         <link>https://tgmeetup.github.io/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Aug 2018 10:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Aug 2018 10:33:40 GMT</lastBuildDate>
         <atom:link href="https://api.github.com/repos/TGmeetup/tgmeetup.js/issues?labels=Event&amp;state=open" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[【August 11】COSCUP 2018 親子工作坊  - 飛飛飛～飛行種子！（星期六上午場）]]></title>
