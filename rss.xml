@@ -4,7 +4,7 @@
         <description><![CDATA[A collection set of technical groups' information]]></description>
         <link>https://tgmeetup.github.io/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Aug 2018 10:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Aug 2018 10:41:45 GMT</lastBuildDate>
         <atom:link href="https://api.github.com/repos/TGmeetup/tgmeetup.js/issues?labels=Event&amp;state=open" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[【September 04】Agile Taipei 九月聚會: 為敏捷插上商業的翅膀]]></title>
