@@ -4,7 +4,7 @@
         <description><![CDATA[A collection set of technical groups' information]]></description>
         <link>https://tgmeetup.github.io/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Sep 2018 11:04:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Sep 2018 10:23:14 GMT</lastBuildDate>
         <atom:link href="https://api.github.com/repos/TGmeetup/tgmeetup.js/issues?labels=Event&amp;state=open" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[【November 07】《PyHUG》SyntaxError]]></title>
