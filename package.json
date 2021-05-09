@@ -24,7 +24,7 @@
     "gh-pages": "^2.0.0",
     "googleapis": "^34.0.0",
     "hoist-non-react-statics": "^3.0.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "node-fetch": "^2.2.0",
     "normalizr": "^3.2.4",
     "randomcolor": "^0.5.3",
